@@ -1,0 +1,26 @@
+{
+  "name": "space-1001d",
+  "version": "1.0.0",
+  "description": "Multi-Dimesional Isotropic Space",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rutishauser/space-1001d.git"
+  },
+  "keywords": [
+    "Information",
+    "Retrival",
+    "NLP",
+    "Hierarchical",
+    "Clustering"
+  ],
+  "author": "Oliver Rutishauser",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Rutishauser/space-1001d/issues"
+  },
+  "homepage": "https://github.com/Rutishauser/space-1001d#readme"
+}
